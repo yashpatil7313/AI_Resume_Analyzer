@@ -69,13 +69,13 @@ The application analyzes PDF resumes, extracts candidate information, calculates
 
 ## Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
 ## Resume Analysis
 
-![Resume Analysis](screenshots/resume-analysis.png)
+![Resume Analysis](resume-analysis.png)
 
 ---
 
