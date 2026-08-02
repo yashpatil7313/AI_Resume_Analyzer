@@ -81,7 +81,7 @@ The application analyzes PDF resumes, extracts candidate information, calculates
 
 ## Top Candidates
 
-![Top Candidates](screenshots/top-candidates.png)
+![Top Candidates](top-candidates.png)
 
 ---
 
