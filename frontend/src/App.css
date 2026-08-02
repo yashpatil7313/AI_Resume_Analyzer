@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: white;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+.container {
+  max-width: 1400px;
+  margin: auto;
+  padding: 20px;
+}
